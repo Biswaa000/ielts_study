@@ -1,5 +1,7 @@
 # IELTS Learning Platform
 
+**Live App**: [https://ieltsnepal.netlify.app/](https://ieltsnepal.netlify.app/)
+
 A comprehensive, modular IELTS study platform built to function as an interactive, digital notebook. The project focuses on structured grammar lessons with high-quality pedagogical features to help users master English for the IELTS exam in a self-paced, academic environment.
 
 ## Features
